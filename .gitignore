@@ -13,6 +13,10 @@ Thumbs.db
 # ==========================
 # Private notes (never push)
 # ==========================
-journal/
+# Private notes (both cases)
+
+[Jj]ournal/
 personal/
 secrets/
+
+
