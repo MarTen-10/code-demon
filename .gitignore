@@ -11,3 +11,8 @@ Thumbs.db
 .obsidian/cache/
 .obsidian/plugins/obsidian-advanced-slides/cache/
 .trash/
+
+# Private notes (never push)
+journal/
+personal/
+secrets/
