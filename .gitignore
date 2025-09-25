@@ -1,0 +1,7 @@
+# Obsidian system files
+.obsidian/
+
+# Private notes
+journal/
+personal/
+secrets/
