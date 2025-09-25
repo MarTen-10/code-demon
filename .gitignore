@@ -1,7 +1,13 @@
-# Obsidian system files
-.obsidian/
+# OS clutter
+.DS_Store
+Thumbs.db
 
-# Private notes
-journal/
-personal/
-secrets/
+# Obsidian local state
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/Graph.json
+.obsidian/plugins/obsidian-git/data.json
+.obsidian/plugins/**/node_modules/
+.obsidian/cache/
+.obsidian/plugins/obsidian-advanced-slides/cache/
+.trash/
