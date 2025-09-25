@@ -13,10 +13,9 @@ Thumbs.db
 # ==========================
 # Private notes (never push)
 # ==========================
-# Private notes (both cases)
-
+# Private notes — match emoji/case/space variants
+*Journal*/
+*journal*/
 [Jj]ournal/
-personal/
-secrets/
 
 
